@@ -1,0 +1,4 @@
+volodya: N
+ilya: N
+timofei: Y
+sasha: Y
